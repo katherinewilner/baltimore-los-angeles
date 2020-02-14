@@ -6,4 +6,4 @@
 ### The charts below demonstrates the different rates city rent increased in price.
 ### 
 #### More information regarding rent prices in cities throughout the U.S. can be found at https://opportunityatlas.org/
-#### ![alt text] (https://user-images.githubusercontent.com/60677476/74544355-fd8c6c00-4f14-11ea-90ba-ca6b72919905.png)
+#### ! [alt text] (https://user-images.githubusercontent.com/60677476/74544355-fd8c6c00-4f14-11ea-90ba-ca6b72919905.png)
