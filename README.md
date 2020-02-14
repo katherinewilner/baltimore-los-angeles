@@ -11,5 +11,6 @@
 #### These graphics and data were obtained through https://opportunityatlas.org/. In order to sort the data, I downloaded data sets including average rent prices from every tract in the country. To sort out rent prices for Los Angeles and Baltimore, I created two pivot tables, one that only included rent prices with the information "Los Angeles, CA" in it, and the other with only information from "Baltimore, MD". After, I scaled the two charts to have equal axis so data would not be skewed when being analyzed.
 #### You can find the data I used from Opportunity Atlas, as well as information regarding minimum wages, below.
 
+#### https://docs.google.com/spreadsheets/d/1bKtWXIO4urBRyNl2vlOS5BY8lZs7IMV_ayHql8_4uOM/edit?usp=sharing
 #### https://civilrights.baltimorecity.gov/wage-commission/wages
 #### http://lacounty.gov/minimum-wage/
